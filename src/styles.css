@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 98vh;
+}
+
+.box {
+  background: #000;
+  width: 200px;
+  height: 200px;
+}
